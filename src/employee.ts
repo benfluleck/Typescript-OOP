@@ -112,7 +112,7 @@ console.log(newEmployee.getJob());
 
 console.log(newManager.getPay());
 
-console.log(newManager.getState()); // Manager can use Employee methods and can use Manager methods
+console.log(newManager.getState()); // Manager can use Employee methods and can use Manager methods as he/she belongs to both classes
 
 
 console.log(newManager.getPay(50000));
